@@ -1,0 +1,4 @@
+{
+  "api": "https://registry.neureal.dev",
+  "fallback_registries": ["https://github.com/UpliftGames/wally-index"]
+}
