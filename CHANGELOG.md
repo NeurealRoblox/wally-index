@@ -4,6 +4,15 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-07-24 22:20 UTC
+
+- `neurealroblox/leaderboards@0.1.2`
+- `neurealroblox/server-bundle@0.1.4`
+- `neurealroblox/ui-leaderboards@0.1.8`
+- `neurealroblox/ui-bundle@0.1.6`
+
+In-world leaderboards: server worldPublisher (change-only compacted snapshots, join replay) + client WorldBoard SurfaceGui and PodiumAvatars local rigs. Geometry and transport are injected; pairs across leaderboards 0.1.2 / ui-leaderboards 0.1.8.
+
 
 ## 2026-07-24 21:14 UTC
 
