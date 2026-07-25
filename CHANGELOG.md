@@ -4,6 +4,14 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-07-25 02:53 UTC
+
+- `neurealroblox/ui-responsive@0.1.7`
+- `neurealroblox/ui-lobby-nav@0.1.2`
+- `neurealroblox/ui-bundle@0.1.8`
+
+Follow-up wave: P1-6 from the revised audit — UIResponsive.attach no longer pins a bad scale on a ScreenGui created with Enabled = false (falls back to the camera viewport, recomputes on Enabled). New Responsive.tierCeiling(vpW, vpH) so profiles track the library's own tier instead of hardcoding a maxScale under it, documented in responsive-contract.md. lobby-nav sizes tiles from the camera viewport, not the safe-area box (caught by a live Studio selftest: 123px where the spec wanted 130px).
+
 ## 2026-07-25 02:32 UTC
 
 - `neurealroblox/ui-platform@0.1.1`

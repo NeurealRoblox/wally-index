@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-07-25 02:53 UTC",
+    "notes": "Follow-up wave: P1-6 from the revised audit — UIResponsive.attach no longer pins a bad scale on a ScreenGui created with Enabled = false (falls back to the camera viewport, recomputes on Enabled). New Responsive.tierCeiling(vpW, vpH) so profiles track the library's own tier instead of hardcoding a maxScale under it, documented in responsive-contract.md. lobby-nav sizes tiles from the camera viewport, not the safe-area box (caught by a live Studio selftest: 123px where the spec wanted 130px).",
+    "packages": [
+      "neurealroblox/ui-responsive@0.1.7",
+      "neurealroblox/ui-lobby-nav@0.1.2",
+      "neurealroblox/ui-bundle@0.1.8"
+    ]
+  },
+  {
     "date": "2026-07-25 02:32 UTC",
     "notes": "Consumer-audit wave: every P0/P1 from the Rotten Tomato UI audit. P0 platform.classify is keyboard+mouse-first (a touchscreen PC / Studio play session is no longer a phone); P0 the slice guard clamps per axis (wide-short plates stop being crushed); P0 sliceless art whose frame aspect differs now warns once per asset, plus Surface{lockAspect}. P1 Surface padding no longer shrinks the chrome; Backdrop takes a per-instance image; new closeIcon/closeIconHover/titleInk tokens + Panel{titleColor}; AbilitySlot gained iconTint/iconTransparency/chromeCooling/onReady; TopbarIcon gained left/center/right lanes + laneRect(). WorldBoard derives its canvas from the part's face and takes row colours. ui-bundle stays 0.1.x so a plain wally update picks all of it up.",
     "packages": [
