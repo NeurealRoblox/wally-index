@@ -4,6 +4,13 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-07-25 03:56 UTC
+
+- `neurealroblox/ui-slots@0.1.0`
+- `neurealroblox/ui-bundle@0.1.9`
+
+NEW package ui-slots (Neu.Slots): reel and roll reveals — slot machines, crate openings, gacha pulls. Server decides the outcome, the package stages it. Slots.play{} is a one-shot takeover that dims and blocks; Slots.Machine{present='inline'} mounts in place. Shape is orthogonal (axis + reels + rows gives classic/grid/case/column); duration is the velocity lever, with peak speed derived rather than dialled in. Motion: run, LINEAR brake, a stall straddling two symbols, then a slow adjust onto the result — never travels backwards. Close calls come from authored strips (landing picks uniformly among occurrences; there is no API for manufactured near-misses) and anticipation only fires when a win is genuinely still live.
+
 ## 2026-07-25 02:53 UTC
 
 - `neurealroblox/ui-responsive@0.1.7`

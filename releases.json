@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-07-25 03:56 UTC",
+    "notes": "NEW package ui-slots (Neu.Slots): reel and roll reveals — slot machines, crate openings, gacha pulls. Server decides the outcome, the package stages it. Slots.play{} is a one-shot takeover that dims and blocks; Slots.Machine{present='inline'} mounts in place. Shape is orthogonal (axis + reels + rows gives classic/grid/case/column); duration is the velocity lever, with peak speed derived rather than dialled in. Motion: run, LINEAR brake, a stall straddling two symbols, then a slow adjust onto the result — never travels backwards. Close calls come from authored strips (landing picks uniformly among occurrences; there is no API for manufactured near-misses) and anticipation only fires when a win is genuinely still live.",
+    "packages": [
+      "neurealroblox/ui-slots@0.1.0",
+      "neurealroblox/ui-bundle@0.1.9"
+    ]
+  },
+  {
     "date": "2026-07-25 02:53 UTC",
     "notes": "Follow-up wave: P1-6 from the revised audit — UIResponsive.attach no longer pins a bad scale on a ScreenGui created with Enabled = false (falls back to the camera viewport, recomputes on Enabled). New Responsive.tierCeiling(vpW, vpH) so profiles track the library's own tier instead of hardcoding a maxScale under it, documented in responsive-contract.md. lobby-nav sizes tiles from the camera viewport, not the safe-area box (caught by a live Studio selftest: 123px where the spec wanted 130px).",
     "packages": [
