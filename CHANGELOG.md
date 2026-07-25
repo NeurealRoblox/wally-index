@@ -4,6 +4,17 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-07-25 07:34 UTC
+
+- `neurealroblox/ui-animation@0.2.0`
+- `neurealroblox/ui-theme@0.1.8`
+- `neurealroblox/ui-topbar-icon@0.2.1`
+- `neurealroblox/ui-styled@0.5.2`
+- `neurealroblox/ui-hud@0.1.7`
+- `neurealroblox/ui-bundle@0.1.11`
+
+Motion tier: keyframe timelines + a device-aware motion budget (functional/polish/decorative), the payoff and loading-skeleton families, and a Vide animation adapter. Plus every Round 2 consumer-audit fix: AbilitySlot cooling chrome no longer hides the icon, the icon fallback glyph no longer draws forever, labelled topbar icons size correctly, and the panel close control gained real pressed state and a skin seam.
+
 ## 2026-07-25 03:56 UTC
 
 - `neurealroblox/ui-slots@0.1.0`
