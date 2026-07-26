@@ -4,6 +4,15 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-07-26 08:28 UTC
+
+- `neurealroblox/ui-text-fit@0.2.1`
+- `neurealroblox/ui-killfeed@0.1.1`
+- `neurealroblox/ui-notifications@0.1.4`
+- `neurealroblox/ui-bundle@0.1.17`
+
+Ship the measured advance constants (GetTextBoundsAsync: regular 0.490 / bold 0.501 / upperBold 0.582, carried with a one-sided 3% margin) that the previous wave documented but did not publish. Budgets: notification 23 at rest / 148 max, killfeed 45 per name.
+
 ## 2026-07-26 08:26 UTC
 
 - `neurealroblox/ui-killfeed@0.1.0`
