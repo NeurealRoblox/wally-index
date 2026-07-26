@@ -4,6 +4,14 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-07-26 08:07 UTC
+
+- `neurealroblox/ui-text-fit@0.2.0`
+- `neurealroblox/ui-notifications@0.1.3`
+- `neurealroblox/ui-bundle@0.1.15`
+
+Notification cards grow to their message instead of truncating at a fixed 220px: widen to 45% of viewport (capped 560px), then wrap to a second line, then shrink 14->12, and only then cut. 140 characters intact against 22 before; minWidth/maxWidth now configurable. TextFit gains per-call shrink depth and segment allocation for composite lines (killfeed-style 'NAME VERB NAME'), where fixed parts survive whole and names share the remainder so both ends stay readable at any length.
+
 ## 2026-07-26 07:14 UTC
 
 - `neurealroblox/ui-animation@0.3.0`

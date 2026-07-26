@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-07-26 08:07 UTC",
+    "notes": "Notification cards grow to their message instead of truncating at a fixed 220px: widen to 45% of viewport (capped 560px), then wrap to a second line, then shrink 14->12, and only then cut. 140 characters intact against 22 before; minWidth/maxWidth now configurable. TextFit gains per-call shrink depth and segment allocation for composite lines (killfeed-style 'NAME VERB NAME'), where fixed parts survive whole and names share the remainder so both ends stay readable at any length.",
+    "packages": [
+      "neurealroblox/ui-text-fit@0.2.0",
+      "neurealroblox/ui-notifications@0.1.3",
+      "neurealroblox/ui-bundle@0.1.15"
+    ]
+  },
+  {
     "date": "2026-07-26 07:14 UTC",
     "notes": "MotionPack: components ask for a beat by ROLE (entrance/tap/reject/attention/hover/reveal/payoff/impact/suspense/ambient) and a game's pack decides what each means; the motion budget still decides how much. Wired in: claims in daily-rewards and achievements, shaped first-load skeletons in leaderboards and achievements, the suspense beat on the ui-slots stall. New ui-text-fit publishes the text-overflow contract (shrink, then truncate, except numbers which abbreviate) and fixes notification text drawing outside its card.",
     "packages": [
