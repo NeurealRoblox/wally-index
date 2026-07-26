@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-26 07:14 UTC",
+    "notes": "MotionPack: components ask for a beat by ROLE (entrance/tap/reject/attention/hover/reveal/payoff/impact/suspense/ambient) and a game's pack decides what each means; the motion budget still decides how much. Wired in: claims in daily-rewards and achievements, shaped first-load skeletons in leaderboards and achievements, the suspense beat on the ui-slots stall. New ui-text-fit publishes the text-overflow contract (shrink, then truncate, except numbers which abbreviate) and fixes notification text drawing outside its card.",
+    "packages": [
+      "neurealroblox/ui-animation@0.3.0",
+      "neurealroblox/ui-text-fit@0.1.0",
+      "neurealroblox/ui-notifications@0.1.2",
+      "neurealroblox/ui-styled@0.5.4",
+      "neurealroblox/ui-achievements@0.1.10",
+      "neurealroblox/ui-daily-rewards@0.1.6",
+      "neurealroblox/ui-leaderboards@0.1.10",
+      "neurealroblox/ui-slots@0.1.1",
+      "neurealroblox/ui-bundle@0.1.14"
+    ]
+  },
+  {
     "date": "2026-07-26 04:38 UTC",
     "notes": "Consumer audit round 2: the server can require ui-bundle again (ui-gamepad guarded its module-scope input wiring; the bundle resolves members lazily), and the interactive tint no longer washes over authored state art (ChromeStates reports needsInteractionTint; swept out of lobby-nav tiles and the panel close control too). ui-lobby-nav's fallback glyph no longer sits under every nav icon.",
     "packages": [

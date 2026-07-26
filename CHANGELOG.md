@@ -4,6 +4,20 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-07-26 07:14 UTC
+
+- `neurealroblox/ui-animation@0.3.0`
+- `neurealroblox/ui-text-fit@0.1.0`
+- `neurealroblox/ui-notifications@0.1.2`
+- `neurealroblox/ui-styled@0.5.4`
+- `neurealroblox/ui-achievements@0.1.10`
+- `neurealroblox/ui-daily-rewards@0.1.6`
+- `neurealroblox/ui-leaderboards@0.1.10`
+- `neurealroblox/ui-slots@0.1.1`
+- `neurealroblox/ui-bundle@0.1.14`
+
+MotionPack: components ask for a beat by ROLE (entrance/tap/reject/attention/hover/reveal/payoff/impact/suspense/ambient) and a game's pack decides what each means; the motion budget still decides how much. Wired in: claims in daily-rewards and achievements, shaped first-load skeletons in leaderboards and achievements, the suspense beat on the ui-slots stall. New ui-text-fit publishes the text-overflow contract (shrink, then truncate, except numbers which abbreviate) and fixes notification text drawing outside its card.
+
 ## 2026-07-26 04:38 UTC
 
 - `neurealroblox/ui-gamepad@0.1.1`
