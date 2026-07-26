@@ -4,6 +4,13 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-07-26 08:26 UTC
+
+- `neurealroblox/ui-killfeed@0.1.0`
+- `neurealroblox/ui-bundle@0.1.16`
+
+New ui-killfeed: a rolling elimination feed that is deliberately not a notification variant -- no coalescing (two kills are two events), rows age out silently, newest-first, 13px bottom-right, and lines the local player is in get accented. Both names survive at any length via per-part text allocation. The text-fit advance constants are now MEASURED against GetTextBoundsAsync rather than estimated, so the published character budgets are real: notification 23 at rest / 148 max, killfeed 45 per name.
+
 ## 2026-07-26 08:07 UTC
 
 - `neurealroblox/ui-text-fit@0.2.0`
