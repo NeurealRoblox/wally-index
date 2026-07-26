@@ -4,6 +4,13 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-07-26 08:59 UTC
+
+- `neurealroblox/ui-styled@0.5.5`
+- `neurealroblox/ui-bundle@0.1.18`
+
+R2-11: flat background tokens no longer paint behind active chrome art -- fixed in all six components that had it (Button, IconButton, Tag, ProgressBar, ItemTile as well as the reported Card and Panel), so a light skin no longer shows a cream rim around every surface. R2-12: ImageAsset/ChromeSpec gain contentBox (where content may sit, as 0..1 fractions, surfaced as Styled.contentBox) and imageRect (crop a padded canvas through the chrome API instead of dropping to a raw ImageLabel). Also adds Styled.resetSeams, because configure() cannot clear a seam by passing nil. Bundle floors synced to published versions.
+
 ## 2026-07-26 08:28 UTC
 
 - `neurealroblox/ui-text-fit@0.2.1`
