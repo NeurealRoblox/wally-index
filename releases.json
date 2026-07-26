@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-07-26 04:38 UTC",
+    "notes": "Consumer audit round 2: the server can require ui-bundle again (ui-gamepad guarded its module-scope input wiring; the bundle resolves members lazily), and the interactive tint no longer washes over authored state art (ChromeStates reports needsInteractionTint; swept out of lobby-nav tiles and the panel close control too). ui-lobby-nav's fallback glyph no longer sits under every nav icon.",
+    "packages": [
+      "neurealroblox/ui-gamepad@0.1.1",
+      "neurealroblox/ui-styled@0.5.3",
+      "neurealroblox/ui-lobby-nav@0.1.3",
+      "neurealroblox/ui-bundle@0.1.12"
+    ]
+  },
+  {
     "date": "2026-07-25 07:34 UTC",
     "notes": "Motion tier: keyframe timelines + a device-aware motion budget (functional/polish/decorative), the payoff and loading-skeleton families, and a Vide animation adapter. Plus every Round 2 consumer-audit fix: AbilitySlot cooling chrome no longer hides the icon, the icon fallback glyph no longer draws forever, labelled topbar icons size correctly, and the panel close control gained real pressed state and a skin seam.",
     "packages": [

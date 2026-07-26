@@ -4,6 +4,15 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-07-26 04:38 UTC
+
+- `neurealroblox/ui-gamepad@0.1.1`
+- `neurealroblox/ui-styled@0.5.3`
+- `neurealroblox/ui-lobby-nav@0.1.3`
+- `neurealroblox/ui-bundle@0.1.12`
+
+Consumer audit round 2: the server can require ui-bundle again (ui-gamepad guarded its module-scope input wiring; the bundle resolves members lazily), and the interactive tint no longer washes over authored state art (ChromeStates reports needsInteractionTint; swept out of lobby-nav tiles and the panel close control too). ui-lobby-nav's fallback glyph no longer sits under every nav icon.
+
 ## 2026-07-25 07:34 UTC
 
 - `neurealroblox/ui-animation@0.2.0`
