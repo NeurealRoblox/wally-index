@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-07-27 01:08 UTC",
+    "packages": [
+      "neurealroblox/ui-killfeed@0.1.3",
+      "neurealroblox/ui-bundle@0.1.21"
+    ]
+  },
+  {
     "date": "2026-07-26 23:14 UTC",
     "packages": [
       "neurealroblox/ui-styled@0.5.7",
