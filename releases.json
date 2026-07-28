@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-07-28 01:29 UTC",
+    "packages": [
+      "neurealroblox/ui-notifications@0.1.5"
+    ]
+  },
+  {
     "date": "2026-07-27 18:27 UTC",
     "packages": [
       "neurealroblox/ui-bundle@0.1.27"
