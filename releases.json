@@ -2,6 +2,12 @@
   {
     "date": "2026-07-28 02:56 UTC",
     "packages": [
+      "neurealroblox/ui-bundle@0.1.29"
+    ]
+  },
+  {
+    "date": "2026-07-28 02:56 UTC",
+    "packages": [
       "neurealroblox/ui-achievements@0.1.12"
     ]
   },

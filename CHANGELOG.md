@@ -6,6 +6,10 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 <!-- waves -->
 ## 2026-07-28 02:56 UTC
 
+- `neurealroblox/ui-bundle@0.1.29`
+
+## 2026-07-28 02:56 UTC
+
 - `neurealroblox/ui-achievements@0.1.12`
 
 ## 2026-07-28 02:36 UTC
