@@ -4,6 +4,10 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-07-28 02:36 UTC
+
+- `neurealroblox/ui-killfeed@0.1.4`
+
 ## 2026-07-28 01:30 UTC
 
 - `neurealroblox/ui-bundle@0.1.28`
