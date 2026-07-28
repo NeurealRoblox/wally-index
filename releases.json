@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-07-28 04:35 UTC",
+    "packages": [
+      "neurealroblox/ui-hud@0.1.9"
+    ]
+  },
+  {
     "date": "2026-07-28 04:25 UTC",
     "packages": [
       "neurealroblox/ui-bundle@0.1.30"
