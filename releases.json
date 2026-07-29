@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-07-29 02:10 UTC",
+    "packages": [
+      "neurealroblox/ui-styled@0.5.14",
+      "neurealroblox/ui-leaderboards@0.1.12",
+      "neurealroblox/ui-modal@0.2.0",
+      "neurealroblox/ui-skill-tree@0.1.0",
+      "neurealroblox/ui-slots@0.2.0",
+      "neurealroblox/ui-bundle@0.2.0"
+    ]
+  },
+  {
     "date": "2026-07-28 15:28 UTC",
     "packages": [
       "neurealroblox/ui-bundle@0.1.32"
