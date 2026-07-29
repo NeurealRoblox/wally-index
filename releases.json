@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-07-29 04:56 UTC",
+    "packages": [
+      "neurealroblox/ui-skill-tree@0.3.0"
+    ]
+  },
+  {
     "date": "2026-07-29 04:38 UTC",
     "packages": [
       "neurealroblox/ui-skill-tree@0.2.0"
