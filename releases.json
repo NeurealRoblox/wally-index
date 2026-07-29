@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-07-29 17:14 UTC",
+    "packages": [
+      "neurealroblox/ui-styled@0.5.16"
+    ]
+  },
+  {
     "date": "2026-07-29 17:11 UTC",
     "packages": [
       "neurealroblox/class-select@0.1.0",
