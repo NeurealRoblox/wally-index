@@ -1,5 +1,30 @@
 [
   {
+    "date": "2026-07-29 17:11 UTC",
+    "packages": [
+      "neurealroblox/class-select@0.1.0",
+      "neurealroblox/ui-core@0.1.6",
+      "neurealroblox/ui-viewport-character@0.1.0",
+      "neurealroblox/ui-achievements@0.1.13",
+      "neurealroblox/ui-battlepass@0.1.9",
+      "neurealroblox/ui-class-select@0.1.0",
+      "neurealroblox/ui-daily-rewards@0.1.7",
+      "neurealroblox/ui-hud@0.1.10",
+      "neurealroblox/ui-leaderboards@0.1.13",
+      "neurealroblox/ui-lobby-nav@0.1.4",
+      "neurealroblox/ui-menu-window@0.2.3",
+      "neurealroblox/ui-modal@0.2.1",
+      "neurealroblox/ui-player-stats@0.1.0",
+      "neurealroblox/ui-quest-tracker@0.1.6",
+      "neurealroblox/ui-results@0.1.6",
+      "neurealroblox/ui-settings@0.1.4",
+      "neurealroblox/ui-skill-tree@0.5.1",
+      "neurealroblox/ui-slots@0.3.1",
+      "neurealroblox/ui-loadout@0.1.0",
+      "neurealroblox/ui-bundle@0.2.1"
+    ]
+  },
+  {
     "date": "2026-07-29 04:56 UTC",
     "packages": [
       "neurealroblox/ui-skill-tree@0.3.0"
