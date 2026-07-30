@@ -4,6 +4,33 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-07-30 17:10 UTC
+
+- `neurealroblox/leaderboards@0.1.3`
+- `neurealroblox/regions@0.1.1`
+- `neurealroblox/player-data@0.1.1`
+- `neurealroblox/ui-animation@0.3.3`
+- `neurealroblox/ui-localization@0.1.1`
+- `neurealroblox/ui-responsive@0.1.8`
+- `neurealroblox/ui-screen-manager@0.1.2`
+- `neurealroblox/ui-theme@0.2.1`
+- `neurealroblox/cleanup@0.1.1`
+- `neurealroblox/ui-blur@0.1.1`
+- `neurealroblox/ui-core@0.1.13`
+- `neurealroblox/ui-gamepad@0.1.2`
+- `neurealroblox/ui-killfeed@0.1.6`
+- `neurealroblox/ui-notifications@0.1.6`
+- `neurealroblox/ui-styled@0.5.24`
+- `neurealroblox/ui-viewport-character@0.1.3`
+- `neurealroblox/ui-world-stage@0.1.2`
+- `neurealroblox/ui-class-select@0.1.4`
+- `neurealroblox/ui-hud@0.1.12`
+- `neurealroblox/ui-menu-window@0.2.7`
+- `neurealroblox/ui-results@0.1.7`
+- `neurealroblox/ui-skill-tree@0.5.6`
+- `neurealroblox/ui-slots@0.3.3`
+- `neurealroblox/ui-bundle@0.2.12`
+
 ## 2026-07-30 07:01 UTC
 
 - `neurealroblox/ui-core@0.1.12`
