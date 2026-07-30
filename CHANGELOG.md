@@ -4,6 +4,20 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-07-30 00:49 UTC
+
+- `neurealroblox/ui-animation@0.3.1`
+- `neurealroblox/ui-tooltip@0.2.0`
+- `neurealroblox/ui-core@0.1.7`
+- `neurealroblox/ui-styled@0.5.18`
+- `neurealroblox/ui-viewport-character@0.1.2`
+- `neurealroblox/ui-world-stage@0.1.1`
+- `neurealroblox/ui-class-select@0.1.2`
+- `neurealroblox/ui-modal@0.2.3`
+- `neurealroblox/ui-settings@0.1.5`
+- `neurealroblox/ui-skill-tree@0.5.3`
+- `neurealroblox/ui-bundle@0.2.3`
+
 ## 2026-07-29 23:21 UTC
 
 - `neurealroblox/ui-styled@0.5.17`
