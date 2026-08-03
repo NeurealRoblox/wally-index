@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-03 17:58 UTC",
+    "notes": "priceFor seam and price_source on purchase rows: a receipt with no amount no longer silently zeroes revenue.",
+    "packages": [
+      "neurealroblox/telemetry@0.1.1"
+    ]
+  },
+  {
     "date": "2026-08-03 06:13 UTC",
     "notes": "Adds neurealroblox/telemetry to the server bundle.",
     "packages": [
