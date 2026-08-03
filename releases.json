@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-03 06:12 UTC",
+    "notes": "Portable game telemetry: batched egress to a queryable store, teleport-continuous sessions, heartbeat playtime, credential from the Roblox Secrets Store.",
+    "packages": [
+      "neurealroblox/telemetry@0.1.0"
+    ]
+  },
+  {
     "date": "2026-07-30 18:20 UTC",
     "packages": [
       "neurealroblox/ui-core@0.1.15",
