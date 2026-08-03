@@ -4,6 +4,15 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-08-03 20:52 UTC
+
+- `neurealroblox/neurhythm@0.5.0`
+- `neurealroblox/telemetry@0.1.3`
+- `neurealroblox/ui-animation@0.3.4`
+- `neurealroblox/ui-styled@0.5.26`
+
+Motion presets reach the whole kit, buttons react instead of lerping, roles carry sound, and Neurhythm joins as an adaptive-audio package. ui-animation 0.3.4 routes all 24 juice helpers through the motion signature (a preset is a skin, so partial reach is no reach) and adds loopTween, which gives a loop a signature WITHOUT letting the budget shorten its period -- shortening a loop speeds a spinner up. ui-styled 0.5.26 adds pressMotion, a squash-peak-settle reaction composed with the hover state on ONE UIScale, plus a sound-cue vocabulary that fires OUTSIDE the motion gate (reduced motion is a vestibular accommodation, not a request for silence). neurhythm 0.5.0 is new: intensity-driven stem mixing, and stem balance is now supplied as MEASURED loudness rather than a hand-computed scalar. telemetry 0.1.3 is a typecheck fix only.
+
 ## 2026-08-03 18:08 UTC
 
 - `neurealroblox/telemetry@0.1.2`
