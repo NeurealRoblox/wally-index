@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-03 06:13 UTC",
+    "notes": "Adds neurealroblox/telemetry to the server bundle.",
+    "packages": [
+      "neurealroblox/server-bundle@0.1.5"
+    ]
+  },
+  {
     "date": "2026-08-03 06:12 UTC",
     "notes": "Portable game telemetry: batched egress to a queryable store, teleport-continuous sessions, heartbeat playtime, credential from the Roblox Secrets Store.",
     "packages": [
