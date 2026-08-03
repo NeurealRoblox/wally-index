@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-03 18:08 UTC",
+    "notes": "Removes infrastructure specifics from the published README and documents the integrator/administrator permission split.",
+    "packages": [
+      "neurealroblox/telemetry@0.1.2"
+    ]
+  },
+  {
     "date": "2026-08-03 17:58 UTC",
     "notes": "priceFor seam and price_source on purchase rows: a receipt with no amount no longer silently zeroes revenue.",
     "packages": [
