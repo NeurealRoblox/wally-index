@@ -4,6 +4,12 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-08-05 07:01 UTC
+
+- `neurealroblox/ui-reveal@0.3.0`
+
+The 3D subject now needs no assets at all. Subject3D.model was mandatory, so a game without an egg mesh got a reveal that rendered nothing -- the same mistake the card made before its monogram fallback. It is optional now, with a chest built from two blocks and a stock R15 dummy from a blank HumanoidDescription rather than a web call that can fail. That removed a dependency I had assumed was unavoidable: parts can be animated by arithmetic, so the default container opens with no animation asset, no Animator and no upload, while the marker-driven sequencer stays for games that have an animator. Three things only a screenshot could have caught: two Ball parts read as a SNOWMAN rather than a cracked shell, so chest is the default and egg needs a real mesh; the lid detached and floated above the box because it rotated about its own centre, so hatch now returns a pivot and the lid turns about its back edge; and a head-on camera cannot see a lid hinge backward, so at 70 percent open the box looked shut -- framing is three-quarter and elevated now. The last one also broke two tests that were asserting the old mechanism, and those were rewritten to the property that survives rather than relaxed to fit.
+
 ## 2026-08-05 05:47 UTC
 
 - `neurealroblox/ui-reveal@0.2.1`
