@@ -4,6 +4,13 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-08-05 05:04 UTC
+
+- `neurealroblox/ui-director@0.2.0`
+- `neurealroblox/ui-reveal@0.2.0`
+
+The dials drive something now. ui-director 0.2.0: post beats RAMP instead of snapping (an instant set reads as a rendering glitch); shake actually moves the camera, with the base CFrame captured ONCE so the offset cannot feed back into itself and walk the camera across the scene; pushIn is an FOV move rather than a translation, so it reads as leaning in from any pose and cannot clip geometry; and dilate is a real seam, because there is no safe global -- slowing the simulation changes the game for every player -- so time is now { set, restore } like the camera and granting true no longer works. That last one is breaking, hence the minor. ui-reveal 0.2.0 wires the tier table to renderers that were reading nothing: the telegraph aura (tier-coloured, during the build, Rare and above only, because an aura that fires every time is not a telegraph), shockwave sized by the dial, rays by rayCount/rayLength/halo, overshoot only above 1.0, and a shine sweep -- all through the existing ui-animation helpers rather than reinvented, and all in the tier's own hue so the colour the build promises is the colour the payoff keeps. Verified in a live DataModel: 18 checks green, including that a legendary builds its aura DURING the build and that a common does not.
+
 ## 2026-08-05 04:13 UTC
 
 - `neurealroblox/ui-director@0.1.0`
