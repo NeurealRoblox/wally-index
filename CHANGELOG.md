@@ -4,6 +4,12 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-08-05 05:47 UTC
+
+- `neurealroblox/ui-reveal@0.2.1`
+
+The reveal card, redesigned against a photograph rather than an assertion. v1 drew a flat grey rectangle and never rendered the item icon at all -- subject.icon was accepted, carried through, and referenced zero times -- and it passed every check it had, because those checks asserted a card existed and arrived on time, which a grey box does perfectly. Nothing in this repo could SEE a ScreenGui (studio-mcp's screen_capture is the 3D viewport only), so this ships the missing half of the loop as well: a plugin mounts the cards into CoreGui in Edit mode and PrintWindow photographs the window's own content, no playtest and no focus needed. Looking caught six things no assertion would: tiers rendering alphabetically, a glow whose layers you could count, cards clipping their own names, burst rays escaping onto neighbours, dead space in the composition, and 'JACKPOTI' -- letterspacing had orphaned the exclamation mark into a capital I on the payoff line of the best tier in the game. The card now reads its tier before any text does: size, glow depth, stroke weight and ornament all ride the rank, the item is the hero with a monogram fallback rather than an empty square, and Common deliberately gets almost no glow because a grey glow is a smudge.
+
 ## 2026-08-05 05:04 UTC
 
 - `neurealroblox/ui-director@0.2.0`
