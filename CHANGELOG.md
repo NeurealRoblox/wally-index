@@ -4,6 +4,14 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-08-05 04:13 UTC
+
+- `neurealroblox/ui-director@0.1.0`
+- `neurealroblox/ui-reveal@0.1.0`
+- `neurealroblox/ui-styled@0.5.27`
+
+Reveals become directed scenes. ui-director 0.1.0 is new and is the piece the kit never had: camera, post-processing and time as beats the GAME grants per call and that are always put back. It never pauses the world and never asks whether it is paused -- one scene description plus a grant, so the same title plays the full scene in the lobby and a self-contained overlay mid-combat through one code path, and an empty grant still yields a working scene. The camera is a seam rather than a boolean, and a half-built seam counts as absent. A ledger records the value it found and restores it on completion, skip, error, destruction and a watchdog; shake is trauma rather than a tween, scaling with trauma squared and decaying per second. ui-reveal 0.1.0 is chest and egg openings on one timeline with two presenters. Two laws carry most of the feel and both are nearly free: the first second is IDENTICAL across every tier, so a big pull announces itself by not stopping where a common would have; and cheap outcomes stay cheap in TIME (2.7s for a common against 9.6s for a legendary, against a shipped implementation that ran 4.0s for everything). Plus 350ms of stillness before the break, and rarity telegraphed before identity. Effects declare their layer, so a particle burst that a ViewportFrame cannot draw is refused at config time instead of silently rendering nothing, and animation is marker-driven rather than timed. ui-styled 0.5.27 warns when a variant declares the legacy image shorthand next to a states table -- the states table wins and the shorthand is never read, which cost this repo 21 red assertions written off as a baseline for weeks.
+
 ## 2026-08-03 20:52 UTC
 
 - `neurealroblox/neurhythm@0.5.0`
