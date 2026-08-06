@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-06 23:37 UTC",
+    "notes": "TextFit.initial: a monogram is a character, not a byte -- fixes tofu/empty initials for non-ASCII names across 6 packages",
+    "packages": [
+      "neurealroblox/ui-text-fit@0.2.2",
+      "neurealroblox/ui-reveal@0.3.2",
+      "neurealroblox/ui-class-select@0.1.6",
+      "neurealroblox/ui-player-stats@0.1.1",
+      "neurealroblox/ui-skill-tree@0.5.7",
+      "neurealroblox/ui-slots@0.3.4",
+      "neurealroblox/ui-loadout@0.1.3",
+      "neurealroblox/ui-bundle@0.2.16"
+    ]
+  },
+  {
     "date": "2026-08-05 16:35 UTC",
     "packages": [
       "neurealroblox/ui-reveal@0.3.1",

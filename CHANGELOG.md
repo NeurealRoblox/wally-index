@@ -4,6 +4,19 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-08-06 23:37 UTC
+
+- `neurealroblox/ui-text-fit@0.2.2`
+- `neurealroblox/ui-reveal@0.3.2`
+- `neurealroblox/ui-class-select@0.1.6`
+- `neurealroblox/ui-player-stats@0.1.1`
+- `neurealroblox/ui-skill-tree@0.5.7`
+- `neurealroblox/ui-slots@0.3.4`
+- `neurealroblox/ui-loadout@0.1.3`
+- `neurealroblox/ui-bundle@0.2.16`
+
+TextFit.initial: a monogram is a character, not a byte -- fixes tofu/empty initials for non-ASCII names across 6 packages
+
 ## 2026-08-05 16:35 UTC
 
 - `neurealroblox/ui-reveal@0.3.1`
