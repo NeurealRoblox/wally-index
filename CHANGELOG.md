@@ -4,6 +4,30 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-08-07 16:41 UTC
+
+- `neurealroblox/ui-styled@0.6.0`
+- `neurealroblox/ui-achievements@0.3.0`
+- `neurealroblox/ui-battlepass@0.2.0`
+- `neurealroblox/ui-class-select@0.3.0`
+- `neurealroblox/ui-daily-rewards@0.2.0`
+- `neurealroblox/ui-hud@0.2.0`
+- `neurealroblox/ui-leaderboards@0.3.0`
+- `neurealroblox/ui-lobby-nav@0.2.0`
+- `neurealroblox/ui-menu-window@0.4.0`
+- `neurealroblox/ui-modal@0.4.0`
+- `neurealroblox/ui-player-stats@0.3.0`
+- `neurealroblox/ui-quest-tracker@0.2.0`
+- `neurealroblox/ui-results@0.2.0`
+- `neurealroblox/ui-settings@0.2.0`
+- `neurealroblox/ui-skill-tree@0.7.0`
+- `neurealroblox/ui-slots@0.5.0`
+- `neurealroblox/ui-store@0.3.0`
+- `neurealroblox/ui-loadout@0.3.0`
+- `neurealroblox/ui-bundle@0.2.22`
+
+ui-styled: retargeting a variant's image now drops the previous image's geometry (contentBox/imageRect/slice), which was being applied to different art. Also: ui-skill-tree's extent floor is in design px. BREAKING for reskinned variants.
+
 ## 2026-08-07 16:13 UTC
 
 - `neurealroblox/ui-responsive@0.2.0`
