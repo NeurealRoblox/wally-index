@@ -4,6 +4,25 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-08-07 16:13 UTC
+
+- `neurealroblox/ui-responsive@0.2.0`
+- `neurealroblox/ui-achievements@0.2.0`
+- `neurealroblox/ui-class-select@0.2.0`
+- `neurealroblox/ui-hud@0.1.14`
+- `neurealroblox/ui-leaderboards@0.2.0`
+- `neurealroblox/ui-menu-window@0.3.0`
+- `neurealroblox/ui-modal@0.3.0`
+- `neurealroblox/ui-player-stats@0.2.0`
+- `neurealroblox/ui-quest-tracker@0.1.8`
+- `neurealroblox/ui-skill-tree@0.6.0`
+- `neurealroblox/ui-slots@0.4.0`
+- `neurealroblox/ui-store@0.2.0`
+- `neurealroblox/ui-loadout@0.2.0`
+- `neurealroblox/ui-bundle@0.2.21`
+
+One canvas: every ui-responsive profile now references 640x360 (the smallest supported device) with a legibility floor that means 11 real px everywhere. BREAKING for menu surfaces authored against 720x405.
+
 ## 2026-08-07 04:58 UTC
 
 - `neurealroblox/ui-text-fit@0.3.0`
