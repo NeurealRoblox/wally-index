@@ -4,6 +4,34 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-08-07 00:55 UTC
+
+- `neurealroblox/ui-text-fit@0.2.3`
+- `neurealroblox/ui-core@0.2.0`
+- `neurealroblox/ui-reveal@0.3.3`
+- `neurealroblox/ui-styled@0.5.29`
+- `neurealroblox/ui-viewport-character@0.1.4`
+- `neurealroblox/ui-world-stage@0.1.3`
+- `neurealroblox/ui-achievements@0.1.15`
+- `neurealroblox/ui-battlepass@0.1.10`
+- `neurealroblox/ui-class-select@0.1.7`
+- `neurealroblox/ui-daily-rewards@0.1.8`
+- `neurealroblox/ui-hud@0.1.13`
+- `neurealroblox/ui-leaderboards@0.1.15`
+- `neurealroblox/ui-lobby-nav@0.1.5`
+- `neurealroblox/ui-menu-window@0.2.8`
+- `neurealroblox/ui-modal@0.2.5`
+- `neurealroblox/ui-player-stats@0.1.2`
+- `neurealroblox/ui-quest-tracker@0.1.7`
+- `neurealroblox/ui-results@0.1.8`
+- `neurealroblox/ui-settings@0.1.6`
+- `neurealroblox/ui-skill-tree@0.5.8`
+- `neurealroblox/ui-slots@0.3.5`
+- `neurealroblox/ui-loadout@0.1.4`
+- `neurealroblox/ui-bundle@0.2.18`
+
+ui-core 0.2.0: the overflow contract is ON by default; TextFit.initial; legibility floor 11
+
 ## 2026-08-06 23:37 UTC
 
 - `neurealroblox/ui-text-fit@0.2.2`
