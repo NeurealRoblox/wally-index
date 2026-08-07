@@ -4,6 +4,25 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-08-07 04:58 UTC
+
+- `neurealroblox/ui-text-fit@0.3.0`
+- `neurealroblox/ui-core@0.2.1`
+- `neurealroblox/ui-killfeed@0.1.7`
+- `neurealroblox/ui-notifications@0.1.7`
+- `neurealroblox/ui-reveal@0.3.4`
+- `neurealroblox/ui-styled@0.5.30`
+- `neurealroblox/ui-achievements@0.1.16`
+- `neurealroblox/ui-class-select@0.1.8`
+- `neurealroblox/ui-leaderboards@0.1.16`
+- `neurealroblox/ui-player-stats@0.1.3`
+- `neurealroblox/ui-skill-tree@0.5.9`
+- `neurealroblox/ui-slots@0.3.6`
+- `neurealroblox/ui-loadout@0.1.5`
+- `neurealroblox/ui-bundle@0.2.20`
+
+on-screen DIP legibility floor + per-label floors for sub-fields
+
 ## 2026-08-07 00:55 UTC
 
 - `neurealroblox/ui-text-fit@0.2.3`
