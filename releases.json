@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-08-08 06:41 UTC",
+    "notes": "Second-pass review remediation: daily-reward double grant, migration mutating an adapter's live table, leaked adapter sessions and stale dirty flags, simultaneous leaders on renewal failure, matchmaker ghost queues, telemetry backfill double-counting and a lost 413.",
+    "packages": [
+      "neurealroblox/daily-rewards@0.2.0",
+      "neurealroblox/leader-election@0.2.0",
+      "neurealroblox/matchmaker@0.2.0",
+      "neurealroblox/player-data@0.2.0",
+      "neurealroblox/telemetry@0.2.0",
+      "neurealroblox/server-bundle@0.1.7"
+    ]
+  },
+  {
     "date": "2026-08-08 00:45 UTC",
     "notes": "UITheme.extend now drops panel tokens that described a retargeted image (chromeSlice/closeChrome* siblings), the same rule Variants.mergeInto got. ui-tooltip and ui-topbar-icon join the text contract. BREAKING for themes relying on stale panel geometry.",
     "packages": [

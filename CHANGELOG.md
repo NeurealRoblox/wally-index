@@ -4,6 +4,17 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-08-08 06:41 UTC
+
+- `neurealroblox/daily-rewards@0.2.0`
+- `neurealroblox/leader-election@0.2.0`
+- `neurealroblox/matchmaker@0.2.0`
+- `neurealroblox/player-data@0.2.0`
+- `neurealroblox/telemetry@0.2.0`
+- `neurealroblox/server-bundle@0.1.7`
+
+Second-pass review remediation: daily-reward double grant, migration mutating an adapter's live table, leaked adapter sessions and stale dirty flags, simultaneous leaders on renewal failure, matchmaker ghost queues, telemetry backfill double-counting and a lost 413.
+
 ## 2026-08-08 00:45 UTC
 
 - `neurealroblox/ui-theme@0.3.0`
