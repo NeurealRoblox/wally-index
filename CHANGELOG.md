@@ -4,6 +4,15 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-08-08 14:45 UTC
+
+- `neurealroblox/leader-election@0.2.1`
+- `neurealroblox/matchmaker@0.2.1`
+- `neurealroblox/player-data@0.2.1`
+- `neurealroblox/server-bundle@0.1.9`
+
+The review fixes that lived in Roblox-only shells are now pure, Lune-tested modules: lease.luau, session-rules.luau, registration.luau. No behaviour change.
+
 ## 2026-08-08 14:38 UTC
 
 - `neurealroblox/telemetry@0.2.1`
