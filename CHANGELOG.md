@@ -4,6 +4,13 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-08-08 14:38 UTC
+
+- `neurealroblox/telemetry@0.2.1`
+- `neurealroblox/server-bundle@0.1.8`
+
+telemetry 0.2.1 republishes without a scratch file that 0.2.0 shipped; the publisher now refuses stray files at a package root.
+
 ## 2026-08-08 06:41 UTC
 
 - `neurealroblox/daily-rewards@0.2.0`
