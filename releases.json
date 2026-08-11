@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-08-11 19:43 UTC",
+    "notes": "ui-reveal 0.5.0: container open duration is a dial, its removal derives from it, and onContainerOpened/keepContainer hand the container to the game",
+    "packages": [
+      "neurealroblox/ui-reveal@0.5.0",
+      "neurealroblox/ui-bundle@0.2.25"
+    ]
+  },
+  {
     "date": "2026-08-11 17:02 UTC",
     "notes": "ui-styled 0.8.0: Panel honours a contentBox on unsliced art (rendered suite 800/0); neurhythm 0.6.0: the headroom warning measures the knob it names",
     "packages": [

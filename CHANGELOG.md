@@ -4,6 +4,13 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-08-11 19:43 UTC
+
+- `neurealroblox/ui-reveal@0.5.0`
+- `neurealroblox/ui-bundle@0.2.25`
+
+ui-reveal 0.5.0: container open duration is a dial, its removal derives from it, and onContainerOpened/keepContainer hand the container to the game
+
 ## 2026-08-11 17:02 UTC
 
 - `neurealroblox/neurhythm@0.6.0`
