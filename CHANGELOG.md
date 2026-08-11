@@ -4,6 +4,31 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-08-11 17:02 UTC
+
+- `neurealroblox/neurhythm@0.6.0`
+- `neurealroblox/ui-styled@0.8.0`
+- `neurealroblox/ui-achievements@0.5.0`
+- `neurealroblox/ui-battlepass@0.4.0`
+- `neurealroblox/ui-class-select@0.5.0`
+- `neurealroblox/ui-daily-rewards@0.4.0`
+- `neurealroblox/ui-hud@0.4.0`
+- `neurealroblox/ui-leaderboards@0.5.0`
+- `neurealroblox/ui-lobby-nav@0.4.0`
+- `neurealroblox/ui-menu-window@0.6.0`
+- `neurealroblox/ui-modal@0.6.0`
+- `neurealroblox/ui-player-stats@0.5.0`
+- `neurealroblox/ui-quest-tracker@0.4.0`
+- `neurealroblox/ui-results@0.4.0`
+- `neurealroblox/ui-settings@0.4.0`
+- `neurealroblox/ui-skill-tree@0.9.0`
+- `neurealroblox/ui-slots@0.7.0`
+- `neurealroblox/ui-store@0.5.0`
+- `neurealroblox/ui-loadout@0.5.0`
+- `neurealroblox/ui-bundle@0.2.24`
+
+ui-styled 0.8.0: Panel honours a contentBox on unsliced art (rendered suite 800/0); neurhythm 0.6.0: the headroom warning measures the knob it names
+
 ## 2026-08-11 16:21 UTC
 
 - `neurealroblox/telemetry@0.6.0`
