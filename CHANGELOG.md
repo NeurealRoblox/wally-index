@@ -4,6 +4,12 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-08-12 06:21 UTC
+
+- `neurealroblox/ui-motion@0.1.0`
+
+ui-motion 0.1.0: springs (analytic, interruptible), noise, stagger, cubic-bezier curves and inertia -- the solver layer under the recipe packages
+
 ## 2026-08-11 20:05 UTC
 
 - `neurealroblox/ui-core@0.2.2`
