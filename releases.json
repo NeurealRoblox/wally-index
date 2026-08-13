@@ -2,6 +2,12 @@
   {
     "date": "2026-08-13 01:09 UTC",
     "packages": [
+      "neurealroblox/server-bundle@0.1.15"
+    ]
+  },
+  {
+    "date": "2026-08-13 01:09 UTC",
+    "packages": [
       "neurealroblox/telemetry@0.7.0"
     ]
   },
