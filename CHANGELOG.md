@@ -6,6 +6,10 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 <!-- waves -->
 ## 2026-08-13 08:20 UTC
 
+- `neurealroblox/server-bundle@0.1.17`
+
+## 2026-08-13 08:20 UTC
+
 - `neurealroblox/telemetry@0.8.1`
 
 ## 2026-08-13 05:31 UTC
