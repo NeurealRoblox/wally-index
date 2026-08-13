@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-13 01:09 UTC",
+    "packages": [
+      "neurealroblox/telemetry@0.7.0"
+    ]
+  },
+  {
     "date": "2026-08-12 06:21 UTC",
     "notes": "ui-motion 0.1.0: springs (analytic, interruptible), noise, stagger, cubic-bezier curves and inertia -- the solver layer under the recipe packages",
     "packages": [
