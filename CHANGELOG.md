@@ -4,6 +4,13 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-08-13 08:31 UTC
+
+- `neurealroblox/ui-tooltip@0.3.1`
+- `neurealroblox/ui-topbar-icon@0.3.1`
+- `neurealroblox/ui-blur@0.2.1`
+- `neurealroblox/ui-gamepad@0.2.1`
+
 ## 2026-08-13 08:20 UTC
 
 - `neurealroblox/server-bundle@0.1.17`

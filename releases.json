@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-08-13 08:31 UTC",
+    "packages": [
+      "neurealroblox/ui-tooltip@0.3.1",
+      "neurealroblox/ui-topbar-icon@0.3.1",
+      "neurealroblox/ui-blur@0.2.1",
+      "neurealroblox/ui-gamepad@0.2.1"
+    ]
+  },
+  {
     "date": "2026-08-13 08:20 UTC",
     "packages": [
       "neurealroblox/server-bundle@0.1.17"
