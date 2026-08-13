@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-08-13 05:31 UTC",
+    "packages": [
+      "neurealroblox/telemetry@0.8.0"
+    ]
+  },
+  {
     "date": "2026-08-13 03:19 UTC",
     "notes": "ui-skill-tree plays the choreography its pure modules already specified: connectors draw in, a refusal pulses back up its blockers, the selection ring breathes. Adds playSound/onPhase seams and pointer hover.",
     "packages": [
