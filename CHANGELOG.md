@@ -4,6 +4,12 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-09-09 07:54 UTC
+
+- `neurealroblox/telemetry@0.8.3`
+
+Adds versioned player journey declarations that connect related funnels across branches, places and game releases. Games publish declarations in the background using their existing ingest key; publication status and retry diagnostics are exposed separately from event delivery. Existing funnel emissions are unchanged. Source: NeuLibs `2c817dcf48b9e76e7e58adee33bd851907c36ce8`.
+
 ## 2026-08-25 23:40 UTC
 
 - `neurealroblox/ui-tooltip@0.3.2`

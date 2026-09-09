@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-09-09 07:54 UTC",
+    "packages": ["neurealroblox/telemetry@0.8.3"],
+    "notes": "Versioned cross-funnel player journeys with background declaration publication, retry status and existing-key authentication. Existing events unchanged. NeuLibs source 2c817dcf48b9e76e7e58adee33bd851907c36ce8."
+  },
+  {
     "date": "2026-08-25 23:40 UTC",
     "packages": [
       "neurealroblox/ui-tooltip@0.3.2",
