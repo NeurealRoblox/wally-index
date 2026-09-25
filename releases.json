@@ -1,8 +1,17 @@
 [
   {
+    "date": "2026-09-25 17:12 UTC",
+    "notes": "telemetry 0.8.6: a sessionsPlayed of 0 now counts as an exact first session without joinedAt (fixes Neulytics First-time only for games that pass a counter but no join date); registerExperiment and experimentAssignment warn when they refuse something.",
+    "packages": [
+      "neurealroblox/telemetry@0.8.6"
+    ]
+  },
+  {
     "date": "2026-09-09 07:54 UTC",
-    "packages": ["neurealroblox/telemetry@0.8.3"],
-    "notes": "Versioned cross-funnel player journeys with background declaration publication, retry status and existing-key authentication. Existing events unchanged. NeuLibs source 2c817dcf48b9e76e7e58adee33bd851907c36ce8."
+    "notes": "Versioned cross-funnel player journeys with background declaration publication, retry status and existing-key authentication. Existing events unchanged. NeuLibs source 2c817dcf48b9e76e7e58adee33bd851907c36ce8.",
+    "packages": [
+      "neurealroblox/telemetry@0.8.3"
+    ]
   },
   {
     "date": "2026-08-25 23:40 UTC",

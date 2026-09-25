@@ -4,6 +4,12 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-09-25 17:12 UTC
+
+- `neurealroblox/telemetry@0.8.6`
+
+telemetry 0.8.6: a sessionsPlayed of 0 now counts as an exact first session without joinedAt (fixes Neulytics First-time only for games that pass a counter but no join date); registerExperiment and experimentAssignment warn when they refuse something.
+
 ## 2026-09-09 07:54 UTC
 
 - `neurealroblox/telemetry@0.8.3`
