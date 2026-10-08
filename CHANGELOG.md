@@ -4,6 +4,12 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-10-08 23:55 UTC
+
+- `neurealroblox/dialogue@0.1.1`
+
+dialogue 0.1.1: mission files (several conversations and the nodes they share in one file, beside the game's own mission data) and Dialogue.collect for a folder of content
+
 ## 2026-10-08 19:13 UTC
 
 - `neurealroblox/ui-text-fit@0.3.1`
