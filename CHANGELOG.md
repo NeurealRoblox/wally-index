@@ -4,6 +4,16 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-10-08 19:13 UTC
+
+- `neurealroblox/ui-text-fit@0.3.1`
+- `neurealroblox/ui-theme@0.4.2`
+- `neurealroblox/ui-core@0.2.4`
+- `neurealroblox/ui-styled@0.9.2`
+- `neurealroblox/ui-dialogue@0.1.0`
+
+ui-dialogue 0.1.0 (the conversation UI and an over-the-shoulder camera presenter for neurealroblox/dialogue), with the UI kit versions it needs: ui-text-fit 0.3.1, ui-core 0.2.4, ui-theme 0.4.2, ui-styled 0.9.2
+
 ## 2026-10-08 19:07 UTC
 
 - `neurealroblox/dialogue@0.1.0`
