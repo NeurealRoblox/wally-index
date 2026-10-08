@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-08 19:07 UTC",
+    "notes": "dialogue 0.1.0: conversations as plain data, run on the server, drawn by presenters (first release)",
+    "packages": [
+      "neurealroblox/dialogue@0.1.0"
+    ]
+  },
+  {
     "date": "2026-09-25 17:12 UTC",
     "notes": "telemetry 0.8.6: a sessionsPlayed of 0 now counts as an exact first session without joinedAt (fixes Neulytics First-time only for games that pass a counter but no join date); registerExperiment and experimentAssignment warn when they refuse something.",
     "packages": [

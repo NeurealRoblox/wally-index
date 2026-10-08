@@ -4,6 +4,12 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-10-08 19:07 UTC
+
+- `neurealroblox/dialogue@0.1.0`
+
+dialogue 0.1.0: conversations as plain data, run on the server, drawn by presenters (first release)
+
 ## 2026-09-25 17:12 UTC
 
 - `neurealroblox/telemetry@0.8.6`
