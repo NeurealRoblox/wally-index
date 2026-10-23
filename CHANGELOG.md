@@ -4,6 +4,12 @@ Newest first; one entry per publish wave. Auto-appended by the repo's
 `scripts/publish` (release train). Machine-readable mirror: `releases.json`.
 
 <!-- waves -->
+## 2026-10-23 00:45 UTC
+
+- `neurealroblox/ui-results@0.4.3`
+
+ui-results 0.4.3: full-screen victory layouts (layout = banner | split | spotlight | champion). champion puts the player's figure centre stage (drop-in, hover, a cheering viewport via ui-viewport-character); every win lands on impact frames, sparks, shockwaves and light sweeps; sound through the kit's impact/payoff/reveal roles. Opt-in: the default sheet is unchanged. ui-styled floor kept at 0.8 so ui-bundle 0.2.x consumers keep one copy.
+
 ## 2026-10-08 23:55 UTC
 
 - `neurealroblox/dialogue@0.1.1`
